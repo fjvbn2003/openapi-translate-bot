@@ -1,0 +1,1 @@
+# openapi-translate-bot
